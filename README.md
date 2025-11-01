@@ -26,6 +26,7 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### E-Commerce Public - Project Data Analysis
+**README:** [`README.md`](https://github.com/armalist/E-Commerce-Public-Project/blob/main/README.md)
 **Code:** [`notebook.ipynb`](https://github.com/armalist/E-Commerce-Public-Project/blob/main/notebook.ipynb)
 
 **Goal:** To analyze a public e-commerce dataset and answer three key business questions:
